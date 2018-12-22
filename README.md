@@ -16,25 +16,51 @@ ___
 
 The project description is in [Project-1.pdf].
 
-You are required to construct five sorting algorithms.
+For part1, you are required to construct seven Graph Searching Algorithms.
 
-* [bubble sort]
-* [insertion sort]
-* [selection sort]
-* [merge sort]
-* [quick sort in place]
-* [quick sort extra]
+Unweighted Graph:
 
-You can find the codes in [p1-implementation].
+* [Breadth-First Search (BFS)]
+* [Depth-First Search (DFS)]
+* [Depth-Limited Search (DLS)]
+* [Iterative Deepening Search (IDS)] 
 
-[p1-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project1/Programming-Assignment-One-Description.pdf "project1"
-[bubble sort]: https://en.wikipedia.org/wiki/Bubble_sort
-[insertion sort]: https://en.wikipedia.org/wiki/Insertion_sort
-[selection sort]: https://en.wikipedia.org/wiki/Selection_sort
-[merge sort]: https://en.wikipedia.org/wiki/Merge_sort
-[quick sort in place]: https://en.wikipedia.org/wiki/Quicksort
-[quick sort extra]: https://en.wikipedia.org/wiki/Quicksort
-[p1-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project1/main.cpp
+PS: DLS and IDS are quite similar, thus they refer to the same Wiki page
+
+Weighted Graph:
+
+* [Uniform-Cost Search (UCS)] (or the Dijkstra Algorithm)
+* [A Star Search (A*)]
+* [Monte Carlo Tree Search (MCTS)]
+
+You can find the codes of algorithm in [search.py].
+You can find the codes of algorithm in [search.py].u
+You can find the codes of algorithm in [search.py].
+
+
+
+
+
+For part2, you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
+
+
+You can find the graph of performance in [figure_1.png]
+
+
+[Clickomania]: http://www.8games8.com/puzzle/clickomania
+[Project-1.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Project-1.pdf
+"project1"
+[search.py]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part1/search.py
+[Breadth-First Search (BFS)]: https://en.wikipedia.org/wiki/Breadth-first_search
+[Depth-First Search (DFS)]: https://en.wikipedia.org/wiki/Depth-first_search
+[Iterative Deepening Search (IDS)]: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+[Depth-Limited Search (DLS)]: https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search
+[Uniform-Cost Search (UCS)]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#Practical_optimizations_and_infinite_graphs
+[A Star Search (A*)]: https://en.wikipedia.org/wiki/A*_search_algorithm
+[Monte Carlo Tree Search (MCTS)]: https://en.wikipedia.org/wiki/Monte_Carlo_tree_search
+[figure_1.png]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/figure_1.png
+
+
 ## <a name = "project2" />Project 2:
 The project description is in [p2-description].
 
