@@ -104,72 +104,36 @@ In part2, you are required to use the BN to testify on two dataset, [wine] and [
 
 The project description is in [Project-3.pdf].
 
-[Project-3.pdf]: https://github.com/Tom-Pomelo/VE281/blob/master/Project3/Programming-Assignment-Three-Description.pdf
+[Project-3.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%203/Project-3.pdf
 
-You are required to construct three priority queues and then solve a minimal-path-weight problem.
+You are required to construct an [Artificial_neural_network] and then use it to testify on the a famous handwritten character database,[Mnist].
 
-* [binary heap]
-* [unsorted heap]
-* [fibonacci heap]
+Feasible features need to implement:
 
-[binary heap]: https://en.wikipedia.org/wiki/Binary_heap
-[unsorted heap]: https://en.wikipedia.org/wiki/Heap_(data_structure)
-[fibonacci heap]: https://en.wikipedia.org/wiki/Fibonacci_heap
+* [Activation_function]
+* [Gradient_descent]
+* [Backpropagation]
 
-You can find the codes in [p3-implementation].
+[Gradient_descent]: https://en.wikipedia.org/wiki/Gradient_descent
+[Activation_function]: https://en.wikipedia.org/wiki/Activation_function
+[Backpropagation]: https://en.wikipedia.org/wiki/Backpropagation
 
-[p3-implementation]: https://github.com/Tom-Pomelo/VE281/tree/master/Project3/project3/project3
+A useful blog about Backpropagation [is here].
+
+
+[is here]: https://www.cnblogs.com/charlotte77/p/5629865.html
+[Mnist]: https://en.wikipedia.org/wiki/MNIST_database
+[Artificial_neural_network]: https://en.wikipedia.org/wiki/Artificial_neural_network
+
+
+You can find the codes in [Network.py].
+
+[Network.py]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%203/Networks.py
 
 ## <a name = "project4" />Project 4:
 The project description is in [p4-description].
 
-You are required to construct some efficient and effective data structures to model a equity-transaction system.
 
-Some feasible implementation may contain:
-
-* [vector]
-* [map]
-* [multi-map]
-* [set]
-* [multi-set]
-
-[p4-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project4/Programming-Assignment-Four.pdf
-
-[vector]: https://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B)#Vector
-[map]: https://en.wikipedia.org/wiki/Associative_array
-[multi-map]: https://en.wikipedia.org/wiki/Multimap
-[set]: https://en.wikipedia.org/wiki/Set_(abstract_data_type)
-[multi-set]: https://en.wikipedia.org/wiki/Multiset
-
-You can find the codes in [p4-implementation].
-
-[p4-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project4/main.cpp
-
-## <a name = "project5" />Project 5:
-
-The project description is in [p5-description].
-
-[p5-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project5/Programming-Assignment-Five-Description.pdf
-
-You are required to solve the Directed-Acyclic-Graph-Decision, Shortest-Path and Minimal-Spanning-Tree problems. 
-
-Some feasible algorithms could be 
-
-* [topology sorting]
-* [Dijkstra's algorithm]
-* [Bellman-Ford Algorithm] 
-* [Prim’s Algorithm] 
-* [Kruskal’s Algorithm]
-
-[topology sorting]: https://en.wikipedia.org/wiki/Topology
-[Dijkstra's algorithm]: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-[Bellman-Ford Algorithm]: https://en.wikipedia.org/wiki/Bellman–Ford_algorithm
-[Prim’s Algorithm]: https://en.wikipedia.org/wiki/Prim%27s_algorithm
-[Kruskal’s Algorithm]: https://en.wikipedia.org/wiki/Kruskal%27s_algorithm
-
-You can find the codes in [p5-implementation].
-
-[p5-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project5/main.cpp
 
 ## <a name = "warning" />Warning:
 For students who are currently taking `Ve593`, please abide by the ***Honor Code*** in case of unnecessary troubles. 
