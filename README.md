@@ -16,7 +16,7 @@ ___
 
 The project description is in [Project-1.pdf].
 
-For ***[part1]***, you are required to construct seven Graph Searching Algorithms.
+For ***part1***, you are required to construct seven Graph Searching Algorithms.
 
 Unweighted Graph:
 
@@ -38,13 +38,11 @@ You can find the codes of algorithm in [search.py].
 
 
 
-For ***[part2]***, you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
+For ***part2***, you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
 
 You can find two ways to implement the game in [Game1] and [Game2] and two ways to implement the player in [Player1] and [Player2]
 
 [here]: https://wenku.baidu.com/view/396d792731b765ce050814df.html
-[part1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/tree/master/Project%201/Part1
-[part2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/tree/master/Project%201/Part2
 [Game2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomania11111.py
 [Game1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomania.py
 [Player1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomaniaplayer.py
