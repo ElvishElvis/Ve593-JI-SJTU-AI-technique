@@ -67,12 +67,28 @@ You can find two ways to implement the game in [Game1] and [Game2] and two ways 
 
 
 ## <a name = "project2" />Project 2:
-The project description is in [p2-description].
+The project description is in [Project-2.pdf].
 
-[p2-description]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/Project-2.pdf
+[Project-2.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/Project-2.pdf
 "project2"
 
 In part 1, you are required to construct a [Bayesian network (BN)] and implement Structure Learning Parameter Learning and Inference
+
+Functions need to implement:
+
+* [K2 Algorithm]
+* [Maximum_likelihood_estimation]
+* [Variable elimination]
+* K2 Score
+* BIC Score
+
+You can find the codes of algorithm in [structurelearning.py] and [variableelimination.py].
+
+[variableelimination.py]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/variableelimination.py
+[structurelearning.py]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/structurelearning.py
+[Variable elimination]: https://en.wikipedia.org/wiki/Variable_elimination
+[Maximum_likelihood_estimation]: https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+[K2 Algorithm]: https://blog.csdn.net/u012558945/article/details/79828434
 
 [Bayesian network (BN)]: https://en.wikipedia.org/wiki/Bayesian_network
 
@@ -86,9 +102,9 @@ In part2, you are required to use the BN to testify on two dataset, [wine] and [
 
 ## <a name = "project3" />Project 3:
 
-The project description is in [p3-description].
+The project description is in [Project-3.pdf].
 
-[p3-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project3/Programming-Assignment-Three-Description.pdf
+[Project-3.pdf]: https://github.com/Tom-Pomelo/VE281/blob/master/Project3/Programming-Assignment-Three-Description.pdf
 
 You are required to construct three priority queues and then solve a minimal-path-weight problem.
 
