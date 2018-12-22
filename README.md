@@ -130,7 +130,7 @@ You can find the codes in [Network.py].
 ## <a name = "project4" />Project 4:
 This is a free research project, description refers to [Project4-announcement.pdf]
 
-The project for our group is "Image classification using CNN model with Numpy", then testify it on Mnist and Cifar10 dataset.
+The project for our group is "Image classification using CNN model with Numpy". We testify it on Mnist and Cifar10 dataset.
 
 Code for Algorithem please refer to [main] and [main2].
 
