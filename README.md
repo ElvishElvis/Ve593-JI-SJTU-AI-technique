@@ -1,6 +1,8 @@
 # `VE593`
 
-***This is a repository for `Ve593` Problem solving with AI technique by Prof. Paul Weng.***
+***This is a repository for `Ve593` Problem solving with AI technique by [Prof. Paul Weng].***
+
+[Prof. Paul Weng]: https://weng.fr
 ___
 ## Catalog
 
