@@ -16,7 +16,7 @@ ___
 
 The project description is in [Project-1.pdf].
 
-For [part1], you are required to construct seven Graph Searching Algorithms.
+For ***[part1]***, you are required to construct seven Graph Searching Algorithms.
 
 Unweighted Graph:
 
@@ -25,7 +25,6 @@ Unweighted Graph:
 * [Depth-Limited Search (DLS)]
 * [Iterative Deepening Search (IDS)] 
 
-PS: DLS and IDS are quite similar, thus they refer to the same Wiki page
 
 Weighted Graph:
 
@@ -39,7 +38,7 @@ You can find the codes of algorithm in [search.py].
 
 
 
-For [part2], you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
+For ***[part2]***, you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
 
 You can find two ways to implement the game in [Game1] and [Game2] and two ways to implement the player in [Player1] and [Player2]
 
@@ -72,7 +71,7 @@ The project description is in [Project-2.pdf].
 [Project-2.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/Project-2.pdf
 "project2"
 
-In part 1, you are required to construct a [Bayesian network (BN)] and implement Structure Learning Parameter Learning and Inference
+In ***part1***, you are required to construct a [Bayesian network (BN)] and implement Structure Learning Parameter Learning and Inference
 
 Functions need to implement:
 
@@ -93,7 +92,7 @@ You can find the codes of algorithm in [structurelearning.py] and [variableelimi
 [Bayesian network (BN)]: https://en.wikipedia.org/wiki/Bayesian_network
 
 
-In part2, you are required to use the BN to testify on two dataset, [wine] and [protein].
+In ***part2***, you are required to use the BN to testify on two dataset, [wine] and [protein].
 
 [wine]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/wine.csv
 [protein]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/protein.csv
@@ -106,7 +105,7 @@ The project description is in [Project-3.pdf].
 
 [Project-3.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%203/Project-3.pdf
 
-You are required to construct an [Artificial_neural_network] and then use it to testify on the a famous handwritten character database,[Mnist].
+You are required to construct an [Artificial_neural_network] and then use it to testify on the a famous handwritten character database, [Mnist].
 
 Feasible features need to implement:
 
@@ -131,11 +130,16 @@ You can find the codes in [Network.py].
 [Network.py]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%203/Networks.py
 
 ## <a name = "project4" />Project 4:
-The project description is in [p4-description].
+This is a free research project, description refers to [Project4-announcement.pdf]
+
+The project for our group is "Image classification using CNN model with Numpy", then testify it on Mnist and Cifar10 dataset.
+
+Code for Algorithem please refer to [Project 4].
 
 
 
 ## <a name = "warning" />Warning:
-For students who are currently taking `Ve593`, please abide by the ***Honor Code*** in case of unnecessary troubles. 
+For students who are currently taking `Ve593`, please abide by the ***[Honor Code]*** in case of unnecessary troubles. 
 
+[Honor Code]: http://umji.sjtu.edu.cn/academics/academic-integrity/honor-code/
 ### CopyRight All Rights Reserved
