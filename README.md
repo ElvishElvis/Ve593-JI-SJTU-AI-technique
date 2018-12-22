@@ -16,7 +16,7 @@ ___
 
 The project description is in [Project-1.pdf].
 
-For part1, you are required to construct seven Graph Searching Algorithms.
+For [part1], you are required to construct seven Graph Searching Algorithms.
 
 Unweighted Graph:
 
@@ -33,18 +33,23 @@ Weighted Graph:
 * [A Star Search (A*)]
 * [Monte Carlo Tree Search (MCTS)]
 
+A useful slides can be found [here].
+
 You can find the codes of algorithm in [search.py].
-You can find the codes of algorithm in [search.py].u
-You can find the codes of algorithm in [search.py].
 
 
 
+For [part2], you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
 
+You can find two ways to implement the game in [Game1] and [Game2] and two ways to implement the player in [Player1] and [Player2]
 
-For part2, you are required to implement the game [Clickomania] and apply Graph Searching Algorithms you had done in part1 to find the optimal solution(or trying to find).
-
-
-You can find the graph of performance in [figure_1.png]
+[here]: https://wenku.baidu.com/view/396d792731b765ce050814df.html
+[part1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/tree/master/Project%201/Part1
+[part2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/tree/master/Project%201/Part2
+[Game2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomania11111.py
+[Game1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomania.py
+[Player1]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/clickomaniaplayer.py
+[Player2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%201/Part2/BFS%20Player.py
 
 
 [Clickomania]: http://www.8games8.com/puzzle/clickomania
@@ -64,19 +69,20 @@ You can find the graph of performance in [figure_1.png]
 ## <a name = "project2" />Project 2:
 The project description is in [p2-description].
 
-[p2-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project2/Programming-Assignment-Two-Description.pdf "project2"
+[p2-description]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/Project-2.pdf
+"project2"
 
-You are required to construct two selection algorithms.
+In part 1, you are required to construct a [Bayesian network (BN)] and implement Structure Learning Parameter Learning and Inference
 
-* [Randomized selection]
-* [Deterministic selection]
+[Bayesian network (BN)]: https://en.wikipedia.org/wiki/Bayesian_network
 
-[Randomized selection]: https://en.wikipedia.org/wiki/Randomized_algorithm
-[Deterministic selection]: https://en.wikipedia.org/wiki/Selection_algorithm
 
-You can find the codes in [p2-implementation].
+In part2, you are required to use the BN to testify on two dataset, [wine] and [protein].
 
-[p2-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project2/project2/project2/main.cpp
+[wine]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/wine.csv
+[protein]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%202/protein.csv
+
+
 
 ## <a name = "project3" />Project 3:
 
