@@ -11,6 +11,7 @@ ___
 * [Project 2](#project2)
 * [Project 3](#project3)
 * [Project 4](#project4)
+* [Contact](#Contact)
 
 ___
 
@@ -144,5 +145,13 @@ Code for Algorithem please refer to [main] and [main2].
 For students who are currently taking `Ve593`, please abide by the ***[Honor Code]*** in case of unnecessary troubles. 
 
 [Honor Code]: http://umji.sjtu.edu.cn/academics/academic-integrity/honor-code/
+
+## <a name = "Contact" />Contact:
+
+Email: elvishelvis6@gmail.com/ 872996860@qq.com
+
+Wechat: 872996860
+
+Please contact me with any question
 
 ### CopyRight All Rights Reserved
