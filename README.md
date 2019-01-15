@@ -2,7 +2,10 @@
 
 ***This is a repository for `Ve593` Problem solving with AI technique by [Prof. Paul Weng].***
 
+***This is a graduate level class taught in [University of Michigan-Shanghai Jiao Tong University Joint Institute] in Fall 2018***
+
 [Prof. Paul Weng]: https://weng.fr
+[University of Michigan-Shanghai Jiao Tong University Joint Institute]: http://umji.sjtu.edu.cn/global/
 ___
 ## Catalog
 
