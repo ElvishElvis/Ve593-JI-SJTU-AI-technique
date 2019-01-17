@@ -138,11 +138,11 @@ This is a free research project, description refers to [Project4-announcement.pd
 
 The project for our group is "Image classification using CNN model with Numpy". We testify it on Mnist and Cifar10 dataset.
 
-Code for Algorithem please refer to [main] and [main2].
+Code for Algorithem please refer to [main] and [main_2].
 
 [Project4-announcement.pdf]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%204/Project4-announcement.pdf
 [main]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%204/main.py
-[main2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%204/main2.py
+[main_2]: https://github.com/ElvishElvis/Ve593-JI-SJTU-AI-technique/blob/master/Project%204/main_2.py
 
 ## <a name = "warning" />Warning:
 For students who are currently taking `Ve593`, please abide by the ***[Honor Code]*** in case of unnecessary troubles. 
